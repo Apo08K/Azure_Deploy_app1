@@ -6,7 +6,7 @@ ADD requirements.txt /app
 RUN pip3 install -r requirements.txt
 ADD . /app
 EXPOSE 8080
-ENTRYPOINT ["streamlit", "run" ,"intro_stm.py", "--server.port=8080","–-server.address=0.0.0.0"]
+ENTRYPOINT ["streamlit", "run" ,"test_import.py", "--server.port=8080","–-server.address=0.0.0.0"]
 
 
 #Run this in terminal 
