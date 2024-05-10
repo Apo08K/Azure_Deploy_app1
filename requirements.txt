@@ -1,0 +1,8 @@
+llama-index==0.10.28
+llama-index-core==0.10.28
+llama-index-embeddings-voyageai==0.1.4
+llama-index-llms-anthropic==0.1.9
+llama-index-vector-stores-qdrant==0.2.0
+qdrant-client==1.8.2
+fastembed==0.2.6
+ipywidgets==8.1.2
