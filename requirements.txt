@@ -6,3 +6,4 @@ llama-index-vector-stores-qdrant==0.2.0
 qdrant-client==1.8.2
 fastembed==0.2.6
 ipywidgets==8.1.2
+streamlit==1.34.0
